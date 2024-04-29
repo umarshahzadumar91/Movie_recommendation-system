@@ -5,7 +5,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 
 
-It is an extension from the project:[[ https://github.com/krishnaik06/Movie-Recommender-in-python](https://github.com/umarshahzadumar91/Movie_recommendation-system)](https://github.com/umarshahzadumar91/Movie_recommendation-system)
+It is an extension from the project:[https://github.com/umarshahzadumar91/Movie_recommendation-system](https://github.com/umarshahzadumar91/Movie_recommendation-system)
 
 The Dataset is taken from a kaggle [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 ).
