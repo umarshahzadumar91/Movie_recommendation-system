@@ -10,10 +10,10 @@ It is an extension from the project:[https://github.com/umarshahzadumar91/Movie_
 The Dataset is taken from a kaggle [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
 ).
 
-Extension
-Have created a text input bar to add your movie whose recommendation you want. Output will give you top 4 matches that are recommended movies.
-
-Results
-Screen Shot 2020-06-06 at 9 36 16 PM Screen Shot 2020-06-06 at 9 36 41 PM
-
-Movie-Recommendation-System-Using-Python-
+# Results
+* recommend('Avatar')
+1. The Helix... Loaded
+2. Krull
+3. The Host
+4. Apollo 18
+5. Teenage Mutant Ninja Turtles III
