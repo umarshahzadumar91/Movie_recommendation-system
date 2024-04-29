@@ -5,9 +5,10 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 
 
-It is an extension from the project: https://github.com/krishnaik06/Movie-Recommender-in-python
+It is an extension from the project:[[ https://github.com/krishnaik06/Movie-Recommender-in-python](https://github.com/umarshahzadumar91/Movie_recommendation-system)](https://github.com/umarshahzadumar91/Movie_recommendation-system)
 
-The Dataset used is a subset of MovieLens Dataset.
+The Dataset is taken from a kaggle [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data
+).
 
 Extension
 Have created a text input bar to add your movie whose recommendation you want. Output will give you top 4 matches that are recommended movies.
